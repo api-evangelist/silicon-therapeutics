@@ -1,8 +1,24 @@
 aid: silicon-therapeutics
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/silicon-therapeutics.png
 name: Silicon Therapeutics
-description: 'Silicon Therapeutics is a company surfaced as a portfolio company of hongshan and added
-  to the API Evangelist network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Silicon Therapeutics was a Boston-based biotechnology company that built
+  an integrated, physics-based drug-discovery platform combining quantum mechanics,
+  molecular simulation, and machine learning to design small-molecule medicines against
+  historically intractable targets. Founded in 2015, it was acquired by Roivant Sciences
+  in 2021 to form the basis of Roivant''s computational discovery engine; its former
+  site (silicontx.com) now redirects to roivant.com. The company is a computational
+  drug-discovery firm with no public API, developer platform, SDK, or technical documentation.'
 url: https://raw.githubusercontent.com/api-evangelist/silicon-therapeutics/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,13 +28,23 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Healthcare
+- Biotechnology
+- Pharmaceuticals
+- Drug Discovery
+- Computational Chemistry
+- Machine Learning
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
