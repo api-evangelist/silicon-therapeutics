@@ -47,7 +47,7 @@ tags:
 - Pharmaceuticals
 - Drug Discovery
 - Computational Chemistry
-- Machine-Learning
+- Machine Learning
 tags_raw:
 - Company
 - Healthcare
@@ -56,6 +56,7 @@ tags_raw:
 - Drug Discovery
 - Computational Chemistry
 - Machine Learning
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
